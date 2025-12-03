@@ -1,97 +1,619 @@
 {
-  "originUrl": "https://www.wknd-trendsetters.site",
+  "originUrl": "https://shop.canon.ca",
   "aborted": false,
-  "lastCrawled": "https://www.wknd-trendsetters.site/",
+  "lastCrawled": "https://shop.canon.ca/",
   "urls": [
     {
-      "url": "https://www.wknd-trendsetters.site/",
+      "url": "https://shop.canon.ca/en_ca/p/137-black-toner-cartridge",
       "source": "SITEMAPS",
-      "targetPath": "/",
-      "id": "1b9ba84f36ee3a519917302a79dfd970725bae31"
+      "targetPath": "/en-ca/p/137-black-toner-cartridge",
+      "id": "ed7fc58953c75a954b8dfb3e2228a0c32e0c93fb"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
+      "url": "https://shop.canon.ca/en_ca/p/ac-e6n-ac-adapter",
       "source": "SITEMAPS",
-      "targetPath": "/blog/fashion-blog-post",
-      "id": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959"
+      "targetPath": "/en-ca/p/ac-e6n-ac-adapter",
+      "id": "60993bfbfebacb00d75c7fd57f219ff702d77624"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-stories",
+      "url": "https://shop.canon.ca/en_ca/p/battery-grip-bg-e14",
       "source": "SITEMAPS",
-      "targetPath": "/blog/fashion-trends-stories",
-      "id": "0ce90e70ef4e1fb12be408961b1f59c6c28dfd0c"
+      "targetPath": "/en-ca/p/battery-grip-bg-e14",
+      "id": "67bb9a788223d5e4ba0bc42a1252f646321ee019"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
+      "url": "https://shop.canon.ca/en_ca/p/battery-grip-bg-e21",
       "source": "SITEMAPS",
-      "targetPath": "/blog/fashion-trends-young-culture",
-      "id": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf"
+      "targetPath": "/en-ca/p/battery-grip-bg-e21",
+      "id": "91362191024f5ecc66f43392fcf379102395910d"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-style",
+      "url": "https://shop.canon.ca/en_ca/p/br-e1-wireless-remote-control",
       "source": "SITEMAPS",
-      "targetPath": "/blog/fashion-trends-young-style",
-      "id": "be00f351b0490d8b536bf724216d6530c30d5684"
+      "targetPath": "/en-ca/p/br-e1-wireless-remote-control",
+      "id": "6841a639233df5ece54bef457909ef858fb49bb5"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
+      "url": "https://shop.canon.ca/en_ca/p/canoscan-lide-300",
       "source": "SITEMAPS",
-      "targetPath": "/blog/latest-trends-young-casual-fashion",
-      "id": "971148fccf483ccd07f6ef722bc01c7fb46f61d5"
+      "targetPath": "/en-ca/p/canoscan-lide-300",
+      "id": "38f3ea71e4afcd44390cdfa5c81e43ab3112b847"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/case-studies",
+      "url": "https://shop.canon.ca/en_ca/p/canoscan-lide-400-scanner",
       "source": "SITEMAPS",
-      "targetPath": "/case-studies",
-      "id": "66a172727564a3e2e297c642759e6ed9b228581a"
+      "targetPath": "/en-ca/p/canoscan-lide-400-scanner",
+      "id": "18db2cb4d31c1b6010996af6ef1816444fb4b406"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/faq",
+      "url": "https://shop.canon.ca/en_ca/p/cli-42-8-colour-value-pack",
       "source": "SITEMAPS",
-      "targetPath": "/faq",
-      "id": "429d6f000c5a6e38a121160bf56d01b17365cffe"
+      "targetPath": "/en-ca/p/cli-42-8-colour-value-pack",
+      "id": "ddaea297713f9a8141ff50fac9cd3a38a9abbcd4"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/fashion-insights",
+      "url": "https://shop.canon.ca/en_ca/p/directional-microphone-dm-e1",
       "source": "SITEMAPS",
-      "targetPath": "/fashion-insights",
-      "id": "67430c465ff7767e6ae98a0cffa44cd32754a351"
+      "targetPath": "/en-ca/p/directional-microphone-dm-e1",
+      "id": "53856b5a755b59a8886f30dc77367849e96ad443"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
+      "url": "https://shop.canon.ca/en_ca/p/dre6c",
       "source": "SITEMAPS",
-      "targetPath": "/fashion-trends-of-the-season",
-      "id": "1cfeb2756419a8f56a89a355f5557c3321845adb"
+      "targetPath": "/en-ca/p/dre6c",
+      "id": "ee4642d7b3d6caa9017bd03e3dbae7e807aace1a"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
+      "url": "https://shop.canon.ca/en_ca/p/e-77-ii-lens-cap",
       "source": "SITEMAPS",
-      "targetPath": "/fashion-trends-young-adults",
-      "id": "d2dd722de7842a6232ce56b1307d383ff72c9358"
+      "targetPath": "/en-ca/p/e-77-ii-lens-cap",
+      "id": "32000f4ea2f39e838abdddf14a42fa24538ed3e2"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
+      "url": "https://shop.canon.ca/en_ca/p/ef-eye-cup",
       "source": "SITEMAPS",
-      "targetPath": "/fashion-trends-young-adults-casual-sport",
-      "id": "1a14744466075b2d00884f27fb69e2633b6fcb84"
+      "targetPath": "/en-ca/p/ef-eye-cup",
+      "id": "4e0789e7e6612a8f14b658246cd27ff776db6bce"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
+      "url": "https://shop.canon.ca/en_ca/p/eos-rp-rf24-105mm-f4-7-1-is-stm-lens-kit",
       "source": "SITEMAPS",
-      "targetPath": "/latest-trends-young-fashion",
-      "id": "f5e200536a2c91b06effaf661df0675e13f262b6"
+      "targetPath": "/en-ca/p/eos-rp-rf24-105mm-f4-7-1-is-stm-lens-kit",
+      "id": "27cfc9477eee37f2bf5e379d9ddc3545dbf72e56"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/products",
+      "url": "https://shop.canon.ca/en_ca/p/ep-ex15-ii-eyepiece-extender",
       "source": "SITEMAPS",
-      "targetPath": "/products",
-      "id": "fffbf39a2d718bfc21fe6d1cce679a3a57ba743b"
+      "targetPath": "/en-ca/p/ep-ex15-ii-eyepiece-extender",
+      "id": "b3b99240d1840893a0f537d32dbe4cd233b8a014"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/testimonial",
+      "url": "https://shop.canon.ca/en_ca/p/er-100b-neck-strap",
       "source": "SITEMAPS",
-      "targetPath": "/testimonial",
-      "id": "d46327e294ae844c14ecd778c47623371e5283e6"
+      "targetPath": "/en-ca/p/er-100b-neck-strap",
+      "id": "f5a6cc6ab08e921ab8d12d6770153741f58b49ba"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/extender-rf1-4x",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/extender-rf1-4x",
+      "id": "55187838ed3ca82b55d7401af5afa5ded32c1af7"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/extender-rf2x",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/extender-rf2x",
+      "id": "f4975a12195d22f283736c8301e7c2eeddb857cd"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/eye-cup-eb",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/eye-cup-eb",
+      "id": "556add0ab3476a43dccc88b9898324c5728b8b51"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/hand-strap-e2",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/hand-strap-e2",
+      "id": "f246c5af4a8cc6c1ff54876beee3d0f368d50b80"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/hdmi-cable-htc-100",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/hdmi-cable-htc-100",
+      "id": "309a2a93351f871ad7f3ea4ee23625430c42aac8"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/hs-20tsc-calculator-value-packs",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/hs-20tsc-calculator-value-packs",
+      "id": "3c9d2516a87504adbf325b8510b11401323a7f33"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/ifc-100u-interface-cable",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/ifc-100u-interface-cable",
+      "id": "7577a6a2a270658fd1b194a609ff96d0cba90c3c"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/ifc-600pcu-interface-cable",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/ifc-600pcu-interface-cable",
+      "id": "0cd20923a6bc7feec55b48cedb3e91371ef8b3af"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/imageclass-mf3010-multifunction-wired-laser-printer",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/imageclass-mf3010-multifunction-wired-laser-printer",
+      "id": "237f12a68c2c9398cc5aaa22a83dd4c91aedf2eb"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/ink-paper-set-kc-36ip-card-size",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/ink-paper-set-kc-36ip-card-size",
+      "id": "c9c7e426cb405514bcb02933cd5a8e02d13881d0"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/interface-cable-ifc-200u",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/interface-cable-ifc-200u",
+      "id": "eb0814dc6982ca765bde9aa86391968885635458"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/interface-cable-ifc-400u",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/interface-cable-ifc-400u",
+      "id": "7f1586501282023d2478de8961d9bdfd8dd00602"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/interface-cable-ifc-40ab-iii",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/interface-cable-ifc-40ab-iii",
+      "id": "f645c08b021359a5298ed7680324c3ade49556d6"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/interface-cable-ifc-500u",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/interface-cable-ifc-500u",
+      "id": "19df68f9d5a213442e219dc0c00a752222e31acd"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/interface-cable-ifc-500u-ii",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/interface-cable-ifc-500u-ii",
+      "id": "ccc7ddc59405ba63dcf06675c3d8101b5b4c4ba4"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/lc-e17-battery-charger",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/lc-e17-battery-charger",
+      "id": "01c16d85c2a5674e883217a490340b093f7d62d0"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/lc-e6-battery-charger",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/lc-e6-battery-charger",
+      "id": "3d9df82d237089054a268b6db6fdcece469f1d95"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/miscellaneous-part-order-camera",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/miscellaneous-part-order-camera",
+      "id": "6b62f2b01cbb7f0e1b95e4df91c6e6ab7a2ca915"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/miscellaneous-part-order-printer",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/miscellaneous-part-order-printer",
+      "id": "c7cb327f870ef36a4052ce7305a8454e0283ec6c"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/pcc-cp400-paper-cassette",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/pcc-cp400-paper-cassette",
+      "id": "ab12c619f4911d3d9c21d668b22c88f03f8be5ef"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/pfi-1000-12-colour-value-pack",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/pfi-1000-12-colour-value-pack",
+      "id": "68c71dc81af7052b15ff7566125bb8d3e9a9a5b7"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/pfi-102-ink-tank",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/pfi-102-ink-tank",
+      "id": "e119728a044a52b63c3d703ab4cccbdb750edfb8"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/pfi-300-10-colour-value-pack",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/pfi-300-10-colour-value-pack",
+      "id": "eafb9ab9f2de47454c1a63fc0c97a3ac5ef39614"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/pg-245-xl-black-ink-cartridge",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/pg-245-xl-black-ink-cartridge",
+      "id": "87c980b4606bfd4e1db2da9068879a02234ab256"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/pgi-72-10-colour-value-pack",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/pgi-72-10-colour-value-pack",
+      "id": "4fbeff8dee636f73f12b2d04f12bb73437d1202a"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/powershot-g7-x-mark-ii",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/powershot-g7-x-mark-ii",
+      "id": "289c15328c09a1fce0dfcff7f5b1481a435c9d44"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/powershot-pick-black-charger-sd-card",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/powershot-pick-black-charger-sd-card",
+      "id": "2ec19c068299813173cd1ce64551826eaae3c27b"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/powershot-v1-creator-bundle",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/powershot-v1-creator-bundle",
+      "id": "01ce65d0bb8ec3f532909ddb44eff68ee7684458"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/r-f-5-camera-cover",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/r-f-5-camera-cover",
+      "id": "6bdda9364aee1718a0875d076c646c2d79000904"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/rc-6-remote-controller",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/rc-6-remote-controller",
+      "id": "b369c50b9585d7b45e80d3b1d1651c537f691dd3"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/remote-controller-adapter-ra-e3",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/remote-controller-adapter-ra-e3",
+      "id": "5cf9ba52a903049c972beb5d85f595f24801d1f3"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/remote-switch-rs-80n3",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/remote-switch-rs-80n3",
+      "id": "473415a213bedb7ca155d3d4bd68b0d02a483adc"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/rf-lens-dust-cap",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/rf-lens-dust-cap",
+      "id": "cb2878db96899d9fed386d3c3891cf33dea3dcc4"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/rs-60e3-remote-switch",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/rs-60e3-remote-switch",
+      "id": "e4a80ed6f25549b74454d7fc0fdfe653af05a1cb"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/rubber-frame-eb",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/rubber-frame-eb",
+      "id": "0f62dcae19a4a42647aec4a73e0592eb41e98690"
+    },
+    {
+      "url": "https://shop.canon.ca/en_ca/p/tc-80n3-timer-remote-controller",
+      "source": "SITEMAPS",
+      "targetPath": "/en-ca/p/tc-80n3-timer-remote-controller",
+      "id": "b12d52000c61d77655cbb2ec8459a59b63031976"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/137-noir-cartouche-de-toner",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/137-noir-cartouche-de-toner",
+      "id": "2cd6ca560a6b91e19254d60126480305654f13b9"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/ac-e6n-adaptateur-secteur",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/ac-e6n-adaptateur-secteur",
+      "id": "800b6794d282b929a6853352894c7762a85fb0a3"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/adaptateur-de-controleur-a-distance-ra-e3",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/adaptateur-de-controleur-a-distance-ra-e3",
+      "id": "e1f647857cb35931f72a2ee67dffa6c5a0dc6f65"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/br-e1-telecommande-sans-fil",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/br-e1-telecommande-sans-fil",
+      "id": "f00a13947513f1fe4e66c3360a659dbf55d3bb41"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/cable-d-interface-ifc-200u",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/cable-d-interface-ifc-200u",
+      "id": "25495ded4382c8244c3a56ed560346cd495fff1f"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/cable-d-interface-ifc-400u",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/cable-d-interface-ifc-400u",
+      "id": "af309aa897d010065f2c7313284020916e36e3b9"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/cable-d-interface-ifc-40ab-iii",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/cable-d-interface-ifc-40ab-iii",
+      "id": "cd0ce3ba0b6ee57c0421a75f4a92765246245f89"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/cable-d-interface-ifc-500u",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/cable-d-interface-ifc-500u",
+      "id": "238bda609abfb602fa2bc3d361bb0e53bee2eedb"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/cable-d-interface-ifc-500u-ii01",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/cable-d-interface-ifc-500u-ii01",
+      "id": "dd501ea32b26e2cef332a89ef04cc4b1efd06865"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/cable-hdmi-htc-100",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/cable-hdmi-htc-100",
+      "id": "aa03167514b2597b0e62bacf4241f54c88a0d9fe"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/cadre-en-caoutchouc-eb",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/cadre-en-caoutchouc-eb",
+      "id": "b1d34d9416174c65ee0bfb9ffbb5716dff0b6f22"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/canoscan-lide-300-scanner",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/canoscan-lide-300-scanner",
+      "id": "09879709766a8e2268237dbc440165aaed24f0ad"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/canoscan-lide-400",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/canoscan-lide-400",
+      "id": "f20b964495036af6a78067df5de4d5a2e36741af"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/cli-42-8-colour-value-pack",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/cli-42-8-colour-value-pack",
+      "id": "c48e8145b68ed329b27203429b667289e45478a6"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/commande-a-distance-rs-80n3",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/commande-a-distance-rs-80n3",
+      "id": "dbc235aef860abea6606236ea24d585b8c3c58b3"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/commande-de-pieces-diverses-camera",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/commande-de-pieces-diverses-camera",
+      "id": "e340980c5f7387eb7a4bec1e6edaad1713fa4865"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/commande-de-pieces-diverses-imprimante",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/commande-de-pieces-diverses-imprimante",
+      "id": "96b3b9ce6da68d5dd426cfb321a14163ee687735"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/dragonne-e2",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/dragonne-e2",
+      "id": "d3e203f2c2202d7c04b2d164557503301f785847"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/dre6c",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/dre6c",
+      "id": "e066fd5de2dd8159497131c95f5471cff8245a7a"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/e-77-ii-bouchon-d-objectif",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/e-77-ii-bouchon-d-objectif",
+      "id": "22c17125016487cedbfc5d1f6495bdaa580e22f4"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/ef-oeilleton",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/ef-oeilleton",
+      "id": "34dc129424344c9a0779de3a328bf3d736eda543"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/ensemble-encre-et-papier-kc-36ip-format-carte",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/ensemble-encre-et-papier-kc-36ip-format-carte",
+      "id": "a2586b5ff6e32668cd94faefffeac65aaa4a8e9c"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/ensemble-powershot-v1-pour-les-createurs-de-contenu",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/ensemble-powershot-v1-pour-les-createurs-de-contenu",
+      "id": "f49eb04e649939f296be98f5d923aa7352089170"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/eos-rp-rf24-105mm-f4-7-1-is-stm-lens-ensemble",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/eos-rp-rf24-105mm-f4-7-1-is-stm-lens-ensemble",
+      "id": "8903fd2f0310b6afb9897331ab7caf81b06482d0"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/er-100b-courroie-de-cou",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/er-100b-courroie-de-cou",
+      "id": "eab69ccf22dffd6cdfccd6fc384bb019d80e78a4"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/hs-20tsc-calculator-value-packs",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/hs-20tsc-calculator-value-packs",
+      "id": "8c3c690acf7eaff3c4cb2228d0256b8dd6ff3fe6"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/ifc-100u-cable-d-interface",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/ifc-100u-cable-d-interface",
+      "id": "71962766f1bedd535de27a340ceba911ead6a861"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/ifc-600pcu-cable-d-interface",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/ifc-600pcu-cable-d-interface",
+      "id": "49ef8b53d43dcbe39af1a752652ab111ea4d3c48"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/imageclass-mf3010",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/imageclass-mf3010",
+      "id": "ccea18f9ae5967fa8de91138d3b32a8d7d2e4243"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/lc-e17-chargeur-de-piles",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/lc-e17-chargeur-de-piles",
+      "id": "71672ac4ec3825510994f238fa4338b7c8cf1857"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/lc-e6-chargeur-de-piles",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/lc-e6-chargeur-de-piles",
+      "id": "5a9e59b762fbb4e61520d741d313a1c488cd67a3"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/microphone-directionnel-dm-e1",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/microphone-directionnel-dm-e1",
+      "id": "4159fc8f7542dc2ef065379fda098a8c6d17c9f9"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/multiplicateur-rf1-4x",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/multiplicateur-rf1-4x",
+      "id": "0430ca4d80bd3b1e4417e87084ce7c88e4e05eaf"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/multiplicateur-rf2x",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/multiplicateur-rf2x",
+      "id": "d16b0ab60465dc5f0c6986f466708f1c1bfe673f"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/oeilleton-eb",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/oeilleton-eb",
+      "id": "8f38f3a93c4a8ae7521fecc9267320a898985e61"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/pcc-cp400-cassette-de-papier",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/pcc-cp400-cassette-de-papier",
+      "id": "e224a47a9c3f9da1d6dea43e571a65cb37876f10"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/pfi-1000-12-colour-value-pack",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/pfi-1000-12-colour-value-pack",
+      "id": "de1d452c3f473df081ebe741b2c5e4b761a2c141"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/pfi-102-d-encre-reservoir",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/pfi-102-d-encre-reservoir",
+      "id": "d9f0ecf2c71eec7a4ffd584be2750831a067ca79"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/pfi-300-10-colour-value-pack",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/pfi-300-10-colour-value-pack",
+      "id": "5959e32c3a3bb5a0bcce3348ef3c4e89cc3492d1"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/pg-245-xl-noir-cartouche-d-encre",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/pg-245-xl-noir-cartouche-d-encre",
+      "id": "7739cbb20a432ebfe4694a50248ce5d5082f8867"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/pgi-72-10-colour-value-pack",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/pgi-72-10-colour-value-pack",
+      "id": "0f0483aca08af87f8cb2c6d412e838504b80ba46"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/poignee-bg-e14",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/poignee-bg-e14",
+      "id": "59800c2188bec0a5ca0e8eba149d58b25960c3bd"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/poignee-bg-e21",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/poignee-bg-e21",
+      "id": "020563bf855233132a0b9e7c5bb7ee7ab91a43ca"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/powershot-g7-x-mark-ii",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/powershot-g7-x-mark-ii",
+      "id": "eb43d8f012033f62a1a8bbf410c3bc8b02d88c63"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/powershot-pick-noir-charger-carte-sd",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/powershot-pick-noir-charger-carte-sd",
+      "id": "8859d63105cd2c56c533a394688c78b75503696b"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/prolongateur-d-culaire-ep-ex15-ii",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/prolongateur-d-culaire-ep-ex15-ii",
+      "id": "3db31a087d2ab50cd062477eec0cf67abb5c18fb"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/r-f-5-couvercle-de-boitier",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/r-f-5-couvercle-de-boitier",
+      "id": "d02c082aceee59847ef9af801ba203a05099ec15"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/rf-capuchon-de-poussiere-de-lentille",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/rf-capuchon-de-poussiere-de-lentille",
+      "id": "2a47235e111cfdfba32c68cccdda6d70b7bff88a"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/rs-60e3-commande-a-distance",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/rs-60e3-commande-a-distance",
+      "id": "edc87c913d1b285ebe13ec9fdff77b93d53defb5"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/telecommande-avec-minuterie-tc-80n3",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/telecommande-avec-minuterie-tc-80n3",
+      "id": "287dc9dbf3a1525d76ffe7329dda823586c2e3f6"
+    },
+    {
+      "url": "https://shop.canon.ca/fr_ca/p/telecommande-rc-6",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/p/telecommande-rc-6",
+      "id": "7005c16c72a8c8b049bbe9218a4e20f542394624"
     }
   ],
   "crawlOptions": {
